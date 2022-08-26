@@ -1,6 +1,15 @@
-## Welcome to GitHub Pages
+## Cadence Chan's First CS193 Homework
+Favorite things about CS193
+- I get to learn about important tools that will help me in classes and for my future career
+- It's an opportunity to meet fellow computer science students
+- Lecture is only once a week
+- There's awesome instructors
 
-Hello! Welcome to GitHub Pages! :D
+
+
+
+
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
